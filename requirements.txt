@@ -1,0 +1,26 @@
+astroid==2.9.3
+certifi==2020.6.20
+cfgv==3.3.1
+click==8.0.3
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+distlib==0.3.4
+filelock==3.4.2
+Flask @ file:///tmp/build/80754af9/flask_1634118196080/work
+identify==2.4.8
+isort==5.10.1
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1635780242639/work
+lazy-object-proxy==1.7.1
+MarkupSafe @ file:///C:/ci_310/markupsafe_1642084045935/work
+mccabe==0.6.1
+nodeenv==1.6.0
+platformdirs==2.4.1
+pre-commit==2.17.0
+pylint==2.12.2
+PyYAML==6.0
+six==1.16.0
+toml==0.10.2
+virtualenv==20.13.1
+Werkzeug @ file:///tmp/build/80754af9/werkzeug_1635505089296/work
+wincertstore==0.2
+wrapt==1.13.3
