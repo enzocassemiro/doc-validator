@@ -60,5 +60,5 @@ def cnpj_validator():
     ''' Function under development, future cpnj validator '''
     return render_template('cnpj-validator.html')
 
-
-app.run()
+if __name__== "__main__":
+    app.run()
