@@ -1,0 +1,35 @@
+body {
+background-color: lightblue;
+}
+
+h1 {
+color: white;
+text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+}
+
+.cpf-box {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin-top:-50px;
+    margin-left:-100px;
+}
+
+.title-cpf {
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    color: black;
+}
+
+.instructions-cpf-check {
+    font-size: 11px;
+}
+
+.instructions-cpf-generator {
+    font-size: 11px;
+}
