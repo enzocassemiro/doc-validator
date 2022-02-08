@@ -19,13 +19,13 @@
             </div>
         </div>
         {% if content[0][0] == False %}
-            <p>CPF Invalid</p>
+            <p id="cpf-return">CPF Invalid</p>
         {% elif content[0][0] == True %}
             <div class="container">
-                <p>CPF Valid</p>
+                <p id="cpf-return">CPF Valid</p>
                 <div class="row justify-content-center">
                     <div class="col-sm">
-                        <p>{{content[0][1]}}</p>
+                        <p id="cpf-return-value">{{content[0][1]}}</p>
                     </div>
                     <div class="col-sm">
                         <img src="/static/images/checked.png" alt="checked Symbol" width="30" height="30">
@@ -33,7 +33,7 @@
                 </div>
             </div>
             <p>CPF Format (Default)</p>
-            <p>{{content[1]}}</p>
+            <p id="cpf-return-value-formated">{{content[1]}}</p>
         {% else %}
         {% endif %}
     </form>
