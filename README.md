@@ -10,6 +10,14 @@
 - [ ] CNPJ Generator
 - [ ] API
 
+## 💻 Stack
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" align="center" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="60" height="60" align="center" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60" align="center" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60" align="center" />
+</div>
+
 ## :chart_with_upwards_trend: Future improvements
 - [ ] Visual
 - [ ] Visual (Mobile)
